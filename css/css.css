@@ -1,1 +1,9 @@
 *{margin: 0;padding: 0;}
+.tabcontent {
+    display: none;
+  }
+  
+  /* 默认显示第一个选项卡内容 */
+  #tab1 {
+    display: block;
+  }
